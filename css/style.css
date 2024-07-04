@@ -455,4 +455,6 @@ span{color: #dfdfdf}
     }
     #footerform input, textarea, #footerbutton{ 
         width: 330px;}
+    
+        #footerform{overflow: hidden;}
 }
